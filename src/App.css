@@ -1,0 +1,44 @@
+body {
+    background-image: url('../public/6.gif'); /* Set your background image */
+    background-size: cover;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.App {
+    width: 100vw;
+}
+
+.Content{
+    margin-top: 20rem;
+    text-align: center;
+}
+
+.title{
+    color:#ffffff;
+}
+
+textarea {
+    width: 80vw;
+    min-height: 40vh;
+    background: rgba(255, 255, 255, 0.5); /* Transparent background */
+    border: none;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
