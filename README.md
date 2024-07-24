@@ -6,7 +6,7 @@ https://cripta.onrender.com
 
 Creada el 21-07/2024, inspirada en aplicaciones similares, pero con código y metodo de enciptación completamente originales. 
 
-![UI](./assets/Captura%20de%20pantalla_2024-07-22-18-51-01-706_com.android.chrome_065154.jpg)
+![UI](./assets/Screenshot_2024-07-22-18-51-01-706_com.android.chrome_065154.jpg)
 
 Simplemente introducecel texto en el campo de entrada, y usa el botón para encriptar. El resultado se verá en el campo de salida.
 
