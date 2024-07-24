@@ -1,8 +1,13 @@
 CRIPTA es una simple aplicación de encriptación y desencriptación de texto, inicialmente se creó como una aplicación web convencional, pero la desarrollado en React para subirla a este repositorio y como una alternativa más actual.
 
 Puedes ver la demostración del proyecto en:
+
 https://fad.com.co/cripta
 https://cripta.onrender.com
+
+Puedes descargar el APL de la aplicación offline para Android desde rl repositorio:
+
+https://github.com/JorgeHernanValencia/criptaAPK.git
 
 Creada el 21-07/2024, inspirada en aplicaciones similares, pero con código y metodo de enciptación completamente originales. 
 
