@@ -1,4 +1,4 @@
-CRIPTA es una simple aplicación de encriptación y desencriptación de texto, inicialmente se creó como una aplicación web convencional, pero la desarrollado en React para subirla a este repositorio y como una alternativa más actual.
+CRIPTA es una simple aplicación de encriptación y desencriptación de texto, inicialmente se creó como una aplicación web convencional, pero la he desarrollado en React para subirla a este repositorio y como una alternativa más actual, y ademas se ha empaquetado como una aplicación Offline para Android.
 
 Puedes ver la demostración del proyecto en:
 
